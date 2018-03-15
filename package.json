@@ -63,7 +63,8 @@
     "verbose": true,
     "coveragePathIgnorePatterns": [
       "<rootDir>/dist/",
-      "<rootDir>/build/",
+      "<rootDir>/tmp/",
+      "<rootDir>/public/",
       "<rootDir>/node_modules/"
     ]
   }

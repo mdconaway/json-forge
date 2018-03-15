@@ -2,7 +2,7 @@
     "name": "json-forge",
     "version": "1.0.0",
     "description": "A simple library that performs deep key remapping / special object compression when given a root object or array.",
-    "main": "./dist/json-forge.min.js",
+    "main": "./dist/json-forge.js",
     "license": "MIT",
     "repository": {
         "type": "git",

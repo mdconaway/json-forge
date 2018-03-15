@@ -308,18 +308,18 @@ to:
             }
         },
         {
-        "or": [
-            {
-                "description": {
-                    "contains": "Text"
+            "or": [
+                {
+                    "description": {
+                        "contains": "Text"
+                    }
+                },
+                {
+                    "classification": {
+                        "contains": "U"
+                    }
                 }
-            },
-            {
-                "classification": {
-                    "contains": "U"
-                }
-            }
-        ]
+            ]
         }
     ],
     "publishedAt": {
